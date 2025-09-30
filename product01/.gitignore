@@ -1,0 +1,24 @@
+# CMake build folders
+/cmake-build-*/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+/product01/helloworld
+
+# Debug / Release folders
+/Debug/
+/Release/
+
+# macOS system files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
